@@ -1,1 +1,1 @@
-# Arduino project for nRF52840 besed micro to control BEscor MP101 pan/tilt head 
+# Arduino project for nRF52840 besed micro to control Bescor MP101 pan/tilt head 
